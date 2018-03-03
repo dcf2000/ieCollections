@@ -3,4 +3,5 @@
 void main()
 {
   printf("hellowww");
+  system("pause");
 }
